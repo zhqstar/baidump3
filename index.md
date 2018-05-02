@@ -1,4 +1,6 @@
-<div align=center><img src="https://raw.githubusercontent.com/zhqstar/baidump3/master/%E7%99%BE%E5%BA%A6%E7%83%AD%E6%A6%9C%E4%B8%8B%E8%BD%BD%E6%92%AD%E6%94%BE%E5%99%A8_2018-04-30_10-53-34.png"></div>
+<div align=center>
+ ![](https://raw.githubusercontent.com/zhqstar/baidump3/master/%E7%99%BE%E5%BA%A6%E7%83%AD%E6%A6%9C%E4%B8%8B%E8%BD%BD%E6%92%AD%E6%94%BE%E5%99%A8_2018-04-30_10-53-34.png)
+</div>
 
 # 百度TOP500热榜下载播放器
 
@@ -31,4 +33,4 @@
 * 当没有网络的时候，一个UI绘制错误导致提示信息未能正确弹出
 
 * 城通网盘下载链接：[https://u15219738.ctfile.com/fs/15219738-289378096](https://u15219738.ctfile.com/fs/15219738-289378096)
-</div>
+
