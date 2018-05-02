@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+#百度TOP500热榜下载播放器
 
-You can use the [editor on GitHub](https://github.com/zhqstar/baidump3/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+UI，下载，播放，解析使用多线程协同，下载播放流畅无卡顿，一切都为了喜爱百度热榜的你
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+解析mp3的过程中，你就可以双击已经解析完成的mp3歌曲立刻下载聆听热榜
 
-### Markdown
+歌曲下载保存目录可自行更换，方便下载歌曲到自己的收藏夹
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+听歌的过程中有事打扰，轻点暂停播放，好歌不要错过
 
-```markdown
-Syntax highlighted code block
+资源消耗极小，老的电脑依然可以愉快的畅听百度热榜
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+###2018-5-1 版本更新
 
-**Bold** and _Italic_ and `Code` text
+修复CPU占用过高的问题
 
-[Link](url) and ![Image](src)
-```
+###2018-5-2 版本更新
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##增加新功能
 
-### Jekyll Themes
+双击下载并播放完成当前歌曲之后，可以自动随机下载热榜中的歌曲并播放了。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhqstar/baidump3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+当然中途你还是可以选择你喜欢听的歌曲。
 
-### Support or Contact
+BUG修复：
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+当没有网络的时候，一个UI绘制错误导致提示信息未能正确弹出
+
+城通网盘下载链接：https://u15219738.ctfile.com/fs/15219738-289378096
