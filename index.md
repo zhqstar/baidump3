@@ -32,5 +32,5 @@
 
 * 当没有网络的时候，一个UI绘制错误导致提示信息未能正确弹出
 
-* 城通网盘下载链接：[https://u15219738.ctfile.com/fs/15219738-289378096](https://u15219738.ctfile.com/fs/15219738-289378096)
+* 百度网盘下载链接：https://pan.baidu.com/s/11m2Cvp9pM-DnWl_XkXYl0A](https://pan.baidu.com/s/11m2Cvp9pM-DnWl_XkXYl0A)
 
