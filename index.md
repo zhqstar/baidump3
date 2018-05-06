@@ -1,5 +1,5 @@
 
- ![image](https://raw.githubusercontent.com/zhqstar/baidump3/master/pythonw_2018-05-04_22-28-54.png)
+ ![image](http://orlhfzwrr.bkt.clouddn.com/%E7%99%BE%E5%BA%A6%E7%83%AD%E6%A6%9C%E4%B8%8B%E8%BD%BD%E6%92%AD%E6%94%BE%E5%99%A8_2018-05-06_09-59-36.png)
 
 
 # 百度TOP500热榜下载播放器
