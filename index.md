@@ -2,7 +2,7 @@
  ![image](http://orlhfzwrr.bkt.clouddn.com/%E7%99%BE%E5%BA%A6%E7%83%AD%E6%A6%9C%E4%B8%8B%E8%BD%BD%E6%92%AD%E6%94%BE%E5%99%A8_2018-05-06_09-59-36.png)
 
 ### python3.65+tkinter
-# 百度TOP500热榜下载播放器
+# 百度热榜下载播放器
 
 * UI，下载，播放，解析使用多线程协同，下载播放流畅无卡顿，一切都为了喜爱百度热榜的你
 
